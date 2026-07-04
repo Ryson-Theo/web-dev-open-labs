@@ -4,7 +4,7 @@ Portfolio documenting my assignments, projects, technical notes, and published w
 
 This repository brings together my GitHub labs, CodePen exercises, pull requests, and Medium articles completed during the fellowship.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=flat-square&logo=linkedin)](inkedin.com/in/ribin-k-roy/) [![Medium](https://img.shields.io/badge/Medium-Publications-12100E?style=flat-square&logo=medium)](https://medium.com/@ryson_theo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=flat-square&logo=linkedin)](linkedin.com/in/ribin-k-roy/) [![Medium](https://img.shields.io/badge/Medium-Publications-12100E?style=flat-square&logo=medium)](https://medium.com/@ryson_theo)
 
 ---
 
