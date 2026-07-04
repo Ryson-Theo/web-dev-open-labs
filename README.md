@@ -1,6 +1,8 @@
 # Ribin K Roy | Web Dev Open Fellowship Portfolio
 
-Portfolio documenting my assignments, projects, technical notes, and published work completed throughout the 8-week **Web Dev Open Fellowship (OpenBootcamp)** as a **Web Development Trainee**.
+Portfolio documenting my assignments, projects, technical notes, and published work completed during the 8-week **Web Dev Open Fellowship (OpenBootcamp)** while serving as a **Web Development Trainee**.
+
+
 
 This repository brings together my GitHub labs, CodePen exercises, pull requests, and Medium articles completed during the fellowship.
 
