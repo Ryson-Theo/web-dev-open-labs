@@ -58,7 +58,7 @@ This repository brings together my GitHub labs, CodePen exercises, pull requests
 * day 1 — [Mars Rover Sandbox](https://codepen.io/editor/Ryson-Theo/pen/019f2948-4fe9-7128-93ca-9126c996fe8f) | [Medium Article](https://medium.com/@ryson_theo/embarking-on-a-journey-of-learning-my-milestone-at-openbootcamp-0f2bb1ec0bde?sharedUserId=ryson_theo) ![](https://img.shields.io/badge/Milestone-Done-success?style=flat-square)
 * day 2 — Virtual DOM diffing mechanics.
 * day 3 — [React Landing Page](https://github.com/Ryson-Theo/lab-hello-rootlearn) | [Active PR](https://github.com/Ryson-Theo/lab-hello-rootlearn/pull/1) ![](https://img.shields.io/badge/Lab-Done-success?style=flat-square)
-* day 4 — Bulma Components & Props ![](https://img.shields.io/badge/Lab-Pending-inactive?style=flat-square)
+* day 4 — [Bulma Components & Props](https://github.com/Ryson-Theo/lab-bulma-components) ![](https://img.shields.io/badge/Lab-Done-sucess?style=flat-square)
 * day 5 — Local component state & hooks lifecycle.
 * day 6 — React Training Practice ![](https://img.shields.io/badge/Lab-Pending-inactive?style=flat-square)
 
