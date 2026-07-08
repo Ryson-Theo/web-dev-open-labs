@@ -60,7 +60,7 @@ This repository brings together my GitHub labs, CodePen exercises, pull requests
 * day 3 — [React Landing Page](https://github.com/Ryson-Theo/lab-hello-rootlearn) | [Active PR](https://github.com/Ryson-Theo/lab-hello-rootlearn/pull/1) ![](https://img.shields.io/badge/Lab-Done-success?style=flat-square)
 * day 4 — [Bulma Components & Props](https://github.com/Ryson-Theo/lab-bulma-components) ![](https://img.shields.io/badge/Lab-Done-sucess?style=flat-square)
 * day 5 — Local component state & hooks lifecycle.
-* day 6 — React Training Practice ![](https://img.shields.io/badge/Lab-Pending-inactive?style=flat-square)
+* day 6 — [React Training Practice](https://github.com/Ryson-Theo/lab-react-training) ![](https://img.shields.io/badge/Lab-Done-sucess?style=flat-square)
 
 ---
 
