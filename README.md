@@ -67,7 +67,7 @@ This repository brings together my GitHub labs, CodePen exercises, pull requests
 ### Week 6 | Forms & Node Runtimes
 
 * day 1 — [Thinking In React](https://github.com/Ryson-Theo/lab-thinking-in-react) ![](https://img.shields.io/badge/Lab-Done-sucess?style=flat-square)
-* day 2 — Forms ([Contacts](https://github.com/Ryson-Theo/lab-react-opencontacts) & Nutrition) ![](https://img.shields.io/badge/Lab-Done-sucess?style=flat-square)
+* day 2 — Forms ([Contacts](https://github.com/Ryson-Theo/lab-react-opencontacts) & [Nutrition](https://github.com/Ryson-Theo/lab-react-opennutrition)) ![](https://img.shields.io/badge/Lab-Done-sucess?style=flat-square)
 * day 3 — Client-side SPA routing.
 * day 4 — NodeJS Intro basics ![](https://img.shields.io/badge/Lab-Pending-inactive?style=flat-square)
 * day 5 — Express Routing API ![](https://img.shields.io/badge/Lab-Pending-inactive?style=flat-square)
