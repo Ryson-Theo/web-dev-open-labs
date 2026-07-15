@@ -77,7 +77,7 @@ This repository brings together my GitHub labs, CodePen exercises, pull requests
 ### Week 7 | Databases & Schema Modeling
 
 * day 1 — MongoDB CRUD fundamentals.
-* day 2 — Compass Querying ![](https://img.shields.io/badge/Lab-Pending-inactive?style=flat-square)
+* day 2 — [Compass Querying](https://github.com/Ryson-Theo/lab-advanced-querying) ![](https://img.shields.io/badge/Lab-Done-sucess?style=flat-square)
 * day 3 — Mongoose & Express Generator ![](https://img.shields.io/badge/Lab-Pending-inactive?style=flat-square)
 * day 4 — Cinema App (Update/Delete) ![](https://img.shields.io/badge/Lab-Pending-inactive?style=flat-square)
 * day 5 — Drones App (Post Params & Async) ![](https://img.shields.io/badge/Lab-Pending-inactive?style=flat-square)
